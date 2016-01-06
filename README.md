@@ -1,4 +1,4 @@
-<h1>Pulsar<h1>
+<h1>Pulsar</h1>
 <br /><br />
 Use this solution as a guideline for upcoming projects.
 <br /><br />
