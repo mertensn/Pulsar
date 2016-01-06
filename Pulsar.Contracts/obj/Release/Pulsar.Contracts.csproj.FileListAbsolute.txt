@@ -1,0 +1,11 @@
+C:\Users\nicolasm\Source\Workspaces\Pulsar\Pulsar.Data\Pulsar.Contracts\bin\Release\Pulsar.Contracts.dll
+C:\Users\nicolasm\Source\Workspaces\Pulsar\Pulsar.Data\Pulsar.Contracts\bin\Release\Pulsar.Contracts.pdb
+C:\Users\nicolasm\Source\Workspaces\Pulsar\Pulsar.Data\Pulsar.Contracts\bin\Release\Framework.DataClient.Portable.dll
+C:\Users\nicolasm\Source\Workspaces\Pulsar\Pulsar.Data\Pulsar.Contracts\bin\Release\Newtonsoft.Json.dll
+C:\Users\nicolasm\Source\Workspaces\Pulsar\Pulsar.Data\Pulsar.Contracts\bin\Release\Pulsar.Contracts.Portable.dll
+C:\Users\nicolasm\Source\Workspaces\Pulsar\Pulsar.Data\Pulsar.Contracts\bin\Release\Framework.DataClient.Portable.pdb
+C:\Users\nicolasm\Source\Workspaces\Pulsar\Pulsar.Data\Pulsar.Contracts\bin\Release\Pulsar.Contracts.Portable.pdb
+C:\Users\nicolasm\Source\Workspaces\Pulsar\Pulsar.Data\Pulsar.Contracts\bin\Release\Newtonsoft.Json.xml
+C:\Users\nicolasm\Source\Workspaces\Pulsar\Pulsar.Data\Pulsar.Contracts\obj\Release\Pulsar.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\nicolasm\Source\Workspaces\Pulsar\Pulsar.Data\Pulsar.Contracts\obj\Release\Pulsar.Contracts.dll
+C:\Users\nicolasm\Source\Workspaces\Pulsar\Pulsar.Data\Pulsar.Contracts\obj\Release\Pulsar.Contracts.pdb

@@ -1,0 +1,14 @@
+C:\Users\nicolasm\Source\Workspaces\Pulsar\Pulsar.Data\Pulsar.Client\bin\Development\Pulsar.Client.dll.config
+C:\Users\nicolasm\Source\Workspaces\Pulsar\Pulsar.Data\Pulsar.Client\bin\Development\Pulsar.Client.dll
+C:\Users\nicolasm\Source\Workspaces\Pulsar\Pulsar.Data\Pulsar.Client\bin\Development\Pulsar.Client.pdb
+C:\Users\nicolasm\Source\Workspaces\Pulsar\Pulsar.Data\Pulsar.Client\bin\Development\Framework.ServiceClient.dll
+C:\Users\nicolasm\Source\Workspaces\Pulsar\Pulsar.Data\Pulsar.Client\bin\Development\Pulsar.Contracts.dll
+C:\Users\nicolasm\Source\Workspaces\Pulsar\Pulsar.Data\Pulsar.Client\bin\Development\Pulsar.Contracts.Portable.dll
+C:\Users\nicolasm\Source\Workspaces\Pulsar\Pulsar.Data\Pulsar.Client\bin\Development\Framework.DataClient.Portable.dll
+C:\Users\nicolasm\Source\Workspaces\Pulsar\Pulsar.Data\Pulsar.Client\bin\Development\Pulsar.Contracts.Portable.pdb
+C:\Users\nicolasm\Source\Workspaces\Pulsar\Pulsar.Data\Pulsar.Client\bin\Development\Pulsar.Contracts.pdb
+C:\Users\nicolasm\Source\Workspaces\Pulsar\Pulsar.Data\Pulsar.Client\bin\Development\Framework.ServiceClient.pdb
+C:\Users\nicolasm\Source\Workspaces\Pulsar\Pulsar.Data\Pulsar.Client\bin\Development\Framework.DataClient.Portable.pdb
+C:\Users\nicolasm\Source\Workspaces\Pulsar\Pulsar.Data\Pulsar.Client\obj\Development\Pulsar.Client.csprojResolveAssemblyReference.cache
+C:\Users\nicolasm\Source\Workspaces\Pulsar\Pulsar.Data\Pulsar.Client\obj\Development\Pulsar.Client.dll
+C:\Users\nicolasm\Source\Workspaces\Pulsar\Pulsar.Data\Pulsar.Client\obj\Development\Pulsar.Client.pdb

@@ -1,0 +1,42 @@
+---------------------Pulsar.Infrastructure.DataCollector---------------------
+E_PUL_IDC.001: Locations could not be captured from database 
+E_PUL_IDC.002: ControllerValues could not be captured from database
+E_PUL_IDC.003: LocationId cannot be 0 when adding a Device
+E_PUL_IDC.004: MySensorsMessageType could not be found for Value <<value>>
+E_PUL_IDC.005: MySensorsMessageSubTypes could not be found for TypeValue <<messageTypeValue>>
+E_PUL_IDC.006: Devices could not be captured from database
+E_PUL_IDC.007: Location for Name <<name>> could not be found in database
+E_PUL_IDC.008: Location with Name <<location.Name>> already exists in database
+E_PUL_IDC.009: MySensorsMessageSubType for MessageTypeValue <<messageTypeValue>> and Value <<value>> could not be found in database
+E_PUL_IDC.010: Device for DeviceId <<deviceId>> could not be found in database
+E_PUL_IDC.011: Device for DeviceIdentifier <<deviceIdentifier>> and SensorId <<sensorId>> could not be found in database
+E_PUL_IDC.012: Devices for LocationId <<locationId>> could not be found in database
+E_PUL_IDC.013: Pulses for LocationId <<locationId>> could not be found in database
+E_PUL_IDC.014: Device for DeviceIdentifier <<device.DeviceIdentifier>> already exists in database 
+E_PUL_IDC.015: MySensorsMessageTypes could not be found in database
+E_PUL_IDC.016: MySensorsMessages could not be found in database
+E_PUL_IDC.017: MySensorsSubTypes could not be found in database
+E_PUL_IDC.018: Pulses could not be found in database
+E_PUL_IDC.019: Locations could not be found in database
+E_PUL_IDC.020: RuleLog for Id <<id>> could not be found in database
+E_PUL_IDC.021: Pulse for Id <<id>> could not be found in database
+E_PUL_IDC.022: Pulses could not be found in database
+E_PUL_IDC.023: Pulse for id <<id>> could not be deleted from database with reason <<ex.Message>>
+E_PUL_IDC.024: PulsarLogs could not be captured from database
+E_PUL_IDC.025: PulsarLog for Id <<id>> could not be found in database
+E_PUL_IDC.026: ControllerValue for Controller <<controller>> and ControllerComponent <<controllerComponent>> could not be found in database
+E_PUL_IDC.027: Devices for Location name <<name>> could not be found in database
+E_PUL_IDC.028: Not all required fields are filled in to add a ControllerValue
+
+---------------------Pulsar.Gateways.Pimatic---------------------------------
+E_PUL_GWPIM.001: Variable <<variable>> for device <<device>> could not be found
+
+---------------------Pulsar.Controllers.ComController------------------------
+E_PUL_COMC.001: SerialPort <<sPortName>> could not be opened for reason <<ex.Message>>
+
+---------------------Pulsar.Controllers.CoreController-----------------------
+E_PUL_CORC.001: CoreController received an exception <<ex.Message>>
+
+---------------------Pulsar.Services.Rest------------------------------------
+E_PUL_SREST.001: PulsarLogController Delete method not implemented
+E_PUL_SREST.002: Could not get latest dev_temp1 value

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <AzureCredentials>{"ServiceManagementEndpoint":"https:\/\/management.core.windows.net\/","SubscriptionId":"9f2114f9-82c7-4a50-a2ff-c247486f89c8"}</AzureCredentials>
+    <AzureDeleteDeploymentOnFailure>True</AzureDeleteDeploymentOnFailure>
+    <AzureDeploymentLabel>Pulsar.Services.Azure</AzureDeploymentLabel>
+    <AzureDeploymentReplacementMethod>AutomaticUpgrade</AzureDeploymentReplacementMethod>
+    <AzureSlot>Production</AzureSlot>
+    <AzureEnableRemoteDesktop>True</AzureEnableRemoteDesktop>
+    <AzureEnableWebDeploy>False</AzureEnableWebDeploy>
+    <AzureFallbackToDeleteAndRecreateIfUpgradeFails>False</AzureFallbackToDeleteAndRecreateIfUpgradeFails>
+    <AzureHostedServiceLabel>Pulsar</AzureHostedServiceLabel>
+    <AzureHostedServiceName>pulsar</AzureHostedServiceName>
+    <AzureEnableIntelliTrace>False</AzureEnableIntelliTrace>
+    <AzureEnableProfiling>False</AzureEnableProfiling>
+    <AzureServiceConfiguration>Cloud</AzureServiceConfiguration>
+    <AzureSolutionConfiguration>Release</AzureSolutionConfiguration>
+    <AzureStorageAccountLabel>PulsarS01</AzureStorageAccountLabel>
+    <AzureStorageAccountName>pulsars01</AzureStorageAccountName>
+    <AzureAppendTimestampToDeploymentLabel>True</AzureAppendTimestampToDeploymentLabel>
+    <EnableRemoteDebugger>False</EnableRemoteDebugger>
+    <RemoteDebuggerConnectorCertificateThumbprint>9E9A2684776C2AFE5D0594F9F98F267A795C360F</RemoteDebuggerConnectorCertificateThumbprint>
+  </PropertyGroup>
+</Project>
