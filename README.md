@@ -1,25 +1,22 @@
-<div>
-        Pulsar
-<br />
+<h1>Pulsar<h1>
+<br /><br />
 Use this solution as a guideline for upcoming projects.
-
+<br /><br />
 Pulsar.Client.Test
-	Test Driven Development
-	Fake, Spy, Stub
-	Dependency Injection
+<br /><br />
+	Test Driven Development<br />
+	Fake, Spy, Stub<br />
+	Dependency Injection<br />
 	NUnit Framework
-
-Pulsar.Services.Soap
-	WCF Soap Service
-
-Pulsar.Services.Rest
-	Web API 2 MVC Rest Services
-
-Pulsar.Infrastructure.DataCollector
-	Code First Migrations
-	Entity Framework 6.0
-	Generic CRUD Repository
-	Local / Azure DbContext
-	
-	
-    </div>
+<br /><br />
+Pulsar.Services.Soap<br />
+	WCF Soap Service<br />
+<br /><br />
+Pulsar.Services.Rest<br />
+	Web API 2 MVC Rest Services<br />
+<br /><br />
+Pulsar.Infrastructure.DataCollector<br />
+	Code First Migrations<br />
+	Entity Framework 6.0<br />
+	Generic CRUD Repository<br />
+	Local / Azure DbContext<br />
