@@ -1,6 +1,6 @@
 <div>
         Pulsar
-
+<br />
 Use this solution as a guideline for upcoming projects.
 
 Pulsar.Client.Test
