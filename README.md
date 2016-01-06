@@ -1,5 +1,7 @@
 # Pulsar
 
+Use this solution as a guideline for upcoming projects.
+
 Pulsar.Client.Test
 	- Test Driven Development
 	- Fake, Spy, Stub
